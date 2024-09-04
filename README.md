@@ -1,5 +1,7 @@
-# financial_analysis_cars
+# Análisis financiero del sector automovilístico Mundial
 Análisis financiero comparativo en el que se miden los ratios de empresas del sector automovilístico y se derivan conclusiones sobre la mejor inversión.
+
+Consultar [informe_final](https://github.com/tommcrojo/analisis_financiero_coches/blob/main/informes/informe_final.md) para ver las conclusiones
 
 Datos extraídos desde [https://discountingcashflows.com](https://discountingcashflows.com/company/TSLA/income-statement/)
 ## Limpieza de Datos
